@@ -1,5 +1,5 @@
 # arduino_doorman
-A Doorman project with Arduino and 3D printer
+A Doorman project with Arduino and 3D printer for a Halloween frontdoor ornament.
 
 # List of materials
 
